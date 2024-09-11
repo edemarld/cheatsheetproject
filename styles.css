@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 35px;
+    text-align: center;
+  }
+  
+  h2 {
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  h5 {
+    font-style: italic;
+    text-align: center;
+  }
+  
+  th {
+    text-align: center;
+  }
+  
+  td {
+    text-align: center;
+  }
+  
+  table, th, td {
+    border: 1px solid;
+  }
+  
+  tr:hover {background-color: red;}
+  
+  .description-cell {
+    text-align: left;
+  }
+  
+  .hightlight {
+    background-color: white;
+    color: black;
+    font-family: monospace, sans-serif;
+  }
